@@ -10,6 +10,13 @@
 .container{
     margin-bottom: 100px;
 }
+.title{
+    text-align: center;
+}
+.backpack{
+    align-content: center;
+    padding-bottom: 20px;
+}
 
 
     
