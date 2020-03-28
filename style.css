@@ -1,0 +1,19 @@
+
+.card-footer{
+    border-top: none !important;
+    background-color: white !important;
+}
+.card{
+    box-shadow: 5px 5px 20px lightgray;
+    border: none !important;
+}
+.container{
+    margin-bottom: 100px;
+}
+
+.murgi{
+    height: 300px;
+    width: 300px;
+}
+
+    
